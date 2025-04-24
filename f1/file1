@@ -1,0 +1,5 @@
+Git is a distributed version control system that helps developers track changes in their codebase. It allows multiple people to work on the same project simultaneously without conflicts. Git provides features like branching and merging, enabling developers to experiment with new ideas safely.
+
+GitHub is a cloud-based platform that hosts Git repositories. It facilitates collaboration by providing tools for code review, issue tracking, and project management. Developers can share their code publicly or keep it private. GitHub also integrates with CI/CD pipelines to automate testing and deployment.
+
+Together, Git and GitHub streamline the software development process, making it more efficient and organized. They are widely used in open-source and enterprise projects alike.
